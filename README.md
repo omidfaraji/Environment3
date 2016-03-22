@@ -6,7 +6,7 @@ In this library i made a new project cernel to Environment2 to support API 19 an
 
 #Usage:
 
-Download project from thi link:
+Download project from this link:
 https://github.com/omidfaraji/Environment3/archive/master.zip
 
 Insert environment3.jar (this file is in lib folder of project)  as project dependency and use it.
